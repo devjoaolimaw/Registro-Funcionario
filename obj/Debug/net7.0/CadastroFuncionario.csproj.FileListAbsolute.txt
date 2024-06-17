@@ -1,0 +1,14 @@
+c:\dev\CadastroFuncionario\bin\Debug\net7.0\CadastroFuncionario.exe
+C:\dev\CadastroFuncionario\bin\Debug\net7.0\CadastroFuncionario.deps.json
+C:\dev\CadastroFuncionario\bin\Debug\net7.0\CadastroFuncionario.runtimeconfig.json
+c:\dev\CadastroFuncionario\bin\Debug\net7.0\CadastroFuncionario.dll
+c:\dev\CadastroFuncionario\bin\Debug\net7.0\CadastroFuncionario.pdb
+c:\dev\CadastroFuncionario\obj\Debug\net7.0\CadastroFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+c:\dev\CadastroFuncionario\obj\Debug\net7.0\CadastroFuncionario.AssemblyInfoInputs.cache
+c:\dev\CadastroFuncionario\obj\Debug\net7.0\CadastroFuncionario.AssemblyInfo.cs
+c:\dev\CadastroFuncionario\obj\Debug\net7.0\CadastroFuncionario.csproj.CoreCompileInputs.cache
+c:\dev\CadastroFuncionario\obj\Debug\net7.0\CadastroFuncionario.dll
+c:\dev\CadastroFuncionario\obj\Debug\net7.0\refint\CadastroFuncionario.dll
+c:\dev\CadastroFuncionario\obj\Debug\net7.0\CadastroFuncionario.pdb
+C:\dev\CadastroFuncionario\obj\Debug\net7.0\CadastroFuncionario.genruntimeconfig.cache
+C:\dev\CadastroFuncionario\obj\Debug\net7.0\ref\CadastroFuncionario.dll
